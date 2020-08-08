@@ -1,0 +1,92 @@
+<strings>
+	<!-- Given -->
+    <string id="AppName">GarMenu</string>
+    <string id="prompt">*Click menu to start*</string>
+    <string id="menu_label_1">Item 1</string>
+    <string id="menu_label_2">Item 2</string>
+    <string id="testing_title">Title Title Title TitleTitleTitleTitleTitle</string>
+    <string id="testing">AaaaaaaaaaAaaaaaaaaaAaaaaaaaaaAaaaaaaaaaAaaaaaaaaaAaaaaaaaaaAaaaaaaaaaAaaaaaaaaaAaaaaaaaaaAaaaaaaaaaAaaaaaaaaaAaaaaaaaaa</string>
+    
+    <!-- Headings -->
+    <string id="plate_page_title">Today's Plate</string>
+    <string id="recipe_picker_prompt">Find a Recipe</string>
+    <string id="description_page_title">About Your Plate</string>
+    <string id="app_description_1">Plate layouts (Easy, Moderate, Hard) are created by the United States Olympic + Paralympic Committee's sport nutrition team. Your plate is decided using</string>
+    <string id="app_description_2">calories burned and your calculated BMR. This app is not intended to serve as a substitute for the consultation, diagnosis, or medical treatment of a qualified dietition.</string>
+    <string id="recipe_website">Recipe: www.usopc.com/ nutrition</string>
+    <!-- Recipe Picker Options -->
+    <string id="meal_option1">Breakfast</string>
+    <string id="meal_option2">Lunch/Dinner</string>
+    <string id="meal_option3">Snack/Dessert</string>
+    <!-- Plate Options -->
+    <string id="nutrition_option1">Easy Day</string>
+    <string id="nutrition_option2">Moderate Day</string>
+    <string id="nutrition_option3">Hard Day</string>
+    
+    <!-- Easy Day Breakfast Recipes -->
+    <string id="BE_1T">Mini Breakfast Quiche</string>
+    <string id="BE_1D">Use a muffin tin to create mini vegetable quiches</string>
+    <string id="BE_2T">Pumpkin Carrot Muffins</string>
+    <string id="BE_2D">Muffins with antioxidants to help fight diseases</string>
+    <string id="BE_3T">Quinoa Power Pancakes</string>
+    <string id="BE_3D">Protein, fiber and omega-3 rich pancakes</string>
+    <!-- Moderate Day Breakfast Recipes -->
+    <string id="BM_1T">Chia Seed Oatmeal</string>
+    <string id="BM_1D">Antioxidants and fiber good for pre/post training</string>
+    <string id="BM_2T">Kale, Potato, and Onion Frittata</string>
+    <string id="BM_2D">High iron and protein frittata + top with parmesan!</string>
+    <string id="BM_3T">Any Smoothie Bowl</string>
+    <string id="BM_3D">Recover + consider adding greens or protein powder</string>
+    <!-- Hard Day Breakfast Recipes -->
+    <string id="BH_1T">Berry Oatmeal Bake</string>
+    <string id="BH_1D">Bake oats +bananas +berries +honey, high in fiber+iron</string>
+    <string id="BH_2T">Pineapple Spice Cake Smoothie</string>
+    <string id="BH_2D">Pineapple+mango+banana+ginger for vitamins A and C</string>
+    <string id="BH_3T">Pomegranate Smoothie</string>
+    <string id="BH_3D">Recover with antioxidants from fruit and greens</string>
+
+    <!-- Easy Day Lunch/Dinner Recipes -->
+    <string id="LE_1T">Avocado Rice with Black Bean Corn Salsa</string>
+    <string id="LE_1D">A high energy and vitamin meal</string>
+    <string id="LE_2T">Potato Gnocchi</string>
+    <string id="LE_2D">Gnocchi is higher in carbs+fiber than most pasta</string>
+    <string id="LE_3T">Quinoa Turkey Patties</string>
+    <string id="LE_3D">Turkey and quinoa make for a good recovery option</string>
+    <!-- Moderate Day Lunch/Dinner Recipes -->
+    <string id="LM_1T">Blackened Chicken and Cilantro Lime Quinoa</string>
+    <string id="LM_1D">High in protein+fiber, try with avocado cream sauce</string>
+    <string id="LM_2T">Pineapple Beef Stir-Fry</string>
+    <string id="LM_2D">Iron + antioxidants + vitamins for energy + bone health</string>
+    <string id="LM_3T">Veggie Spaghetti and Turkey Pesto Meatballs</string>
+    <string id="LM_3D">Turkey builds muscle+spinach lowers blood pressure</string>
+    <!-- Hard Day Lunch/Dinner Recipes -->
+    <string id="LH_1T">Grilled Steak Salad</string>
+    <string id="LH_1D">High in iron and vitamins with peaches+cucumbers</string>
+    <string id="LH_2T">Salmon with Red Cabbage and Red Potatoes</string>
+    <string id="LH_2D">Get a full day of vitamin D!</string>
+    <string id="LH_3T">Sweet Potato Quesadilla</string>
+    <string id="LH_3D">Full-day's worth of vitamin A and fiber!</string>
+
+    <!-- Easy Day Snack/Dessert Recipes -->
+    <string id="SE_1T">Fresh Watermelon Juice</string>
+    <string id="SE_1D">Reduce soreness + increase cardiovascular health</string>
+    <string id="SE_2T">Frozen Yogurt Blueberry Bites</string>
+    <string id="SE_2D">Can also add peanut butter or honey to the yogurt!</string>
+    <string id="SE_3T">Roasted Chickpeas</string>
+    <string id="SE_3D">Add some spices to this fiber-rich snack</string>
+    <!-- Moderate Day Snack/Dessert Recipes -->
+    <string id="SM_1T">Nut Butter Granola Balls</string>
+    <string id="SM_1D">Try adding dried fruit, protein powder or chocolate</string>
+    <string id="SM_2T">No-Bake Peanut Butter Crunch Bars</string>
+    <string id="SM_2D">Cherries included to improve sleep+reduce soreness</string>
+    <string id="SM_3T">Walnut Brownie Bars</string>
+    <string id="SM_3D">Reduce stress and high in fiber and omega-3</string>
+    <!-- Hard Day Snack/Dessert Recipes -->
+    <string id="SH_1T">Date and Oat Crisp</string>
+    <string id="SH_1D">Date + apricot + coconut filling for fiber+potassium</string>
+    <string id="SH_2T">Edamame Salsa</string>
+    <string id="SH_2D">Packed with fiber + calcium + healthy fats + vitamins</string>
+    <string id="SH_3T">Peanut Butter Chocolate Banana Protein Mug</string>
+    <string id="SH_3D">Microwave in mug for sweet source of protein+carbs</string>
+    
+</strings>

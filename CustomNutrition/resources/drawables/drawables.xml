@@ -1,0 +1,6 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="Monkey" filename="monkey.png"/>
+	<bitmap id="DownArrow" filename="down_arrow.jpg"/>
+	<bitmap id="garmenu_icon" filename="serving_food.png"/>
+</drawables>

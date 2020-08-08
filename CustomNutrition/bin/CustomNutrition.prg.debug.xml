@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionDelegate.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionDelegate.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionDelegate.mc" id="4" lineNum="11" pc="268435479" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionDelegate.mc" id="4" lineNum="12" pc="268435483" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionDelegate.mc" id="4" lineNum="13" pc="268435555" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="6" lineNum="16" pc="268435559" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="6" lineNum="17" pc="268435563" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="6" lineNum="18" pc="268435581" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="6" lineNum="19" pc="268435600" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="7" lineNum="23" pc="268435639" symbol="onLayout"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="7" lineNum="24" pc="268435643" symbol="onLayout"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="8" lineNum="27" pc="268435681" symbol="onShow"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="9" lineNum="31" pc="268435686" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="9" lineNum="32" pc="268435690" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="9" lineNum="33" pc="268435710" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="10" lineNum="36" pc="268435731" symbol="onHide"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="11" lineNum="45" pc="268435736" symbol="getBMR"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="11" lineNum="46" pc="268435748" symbol="getBMR"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="11" lineNum="47" pc="268435755" symbol="getBMR"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="11" lineNum="48" pc="268435773" symbol="getBMR"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="11" lineNum="50" pc="268435810" symbol="getBMR"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="11" lineNum="51" pc="268435828" symbol="getBMR"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="11" lineNum="53" pc="268435865" symbol="getBMR"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="59" pc="268435869" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="60" pc="268435881" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="62" pc="268435887" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="63" pc="268435931" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="63" pc="268435941" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="64" pc="268435965" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="67" pc="268435981" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="68" pc="268435988" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="71" pc="268435995" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="72" pc="268436012" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="74" pc="268436022" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="75" pc="268436039" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="76" pc="268436046" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="77" pc="268436053" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="78" pc="268436060" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="80" pc="268436074" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="81" pc="268436081" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="82" pc="268436094" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="83" pc="268436104" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="84" pc="268436120" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="88" pc="268436133" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="90" pc="268436154" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="92" pc="268436167" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="96" pc="268436174" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="97" pc="268436182" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="98" pc="268436203" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="100" pc="268436212" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="101" pc="268436220" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="102" pc="268436241" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="105" pc="268436250" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateView.mc" id="12" lineNum="106" pc="268436271" symbol="getTypeOfDay"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionDelegate.mc" id="14" lineNum="5" pc="268436278" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionDelegate.mc" id="14" lineNum="6" pc="268436282" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionDelegate.mc" id="15" lineNum="9" pc="268436301" symbol="onNextPage"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionDelegate.mc" id="15" lineNum="10" pc="268436305" symbol="onNextPage"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionDelegate.mc" id="15" lineNum="11" pc="268436377" symbol="onNextPage"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="17" lineNum="13" pc="268436381" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="17" lineNum="14" pc="268436385" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="17" lineNum="17" pc="268436403" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="17" lineNum="18" pc="268436420" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="17" lineNum="19" pc="268436430" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="17" lineNum="21" pc="268436443" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="17" lineNum="27" pc="268436579" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="17" lineNum="33" pc="268436715" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="18" lineNum="42" pc="268436864" symbol="onLayout"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="18" lineNum="43" pc="268436868" symbol="onLayout"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="18" lineNum="44" pc="268436904" symbol="onLayout"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="19" lineNum="49" pc="268436917" symbol="onShow"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="53" pc="268436922" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="54" pc="268436926" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="55" pc="268436939" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="58" pc="268436952" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="59" pc="268436962" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="60" pc="268436999" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="61" pc="268437013" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="63" pc="268437023" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="64" pc="268437045" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="66" pc="268437067" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="67" pc="268437077" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="68" pc="268437114" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="69" pc="268437128" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="71" pc="268437135" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="72" pc="268437157" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="74" pc="268437179" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="75" pc="268437189" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="76" pc="268437226" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="77" pc="268437240" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="79" pc="268437247" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="80" pc="268437269" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="83" pc="268437291" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="84" pc="268437311" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="20" lineNum="85" pc="268437331" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeView.mc" id="21" lineNum="90" pc="268437352" symbol="onHide"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\TempView.mc" id="23" lineNum="7" pc="268437357" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\TempView.mc" id="23" lineNum="8" pc="268437361" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\TempView.mc" id="23" lineNum="9" pc="268437368" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\TempView.mc" id="23" lineNum="12" pc="268437384" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\TempView.mc" id="23" lineNum="14" pc="268437394" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\TempView.mc" id="24" lineNum="18" pc="268437413" symbol="onLayout"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\TempView.mc" id="25" lineNum="23" pc="268437418" symbol="onShow"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\TempView.mc" id="26" lineNum="27" pc="268437423" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\TempView.mc" id="26" lineNum="29" pc="268437427" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\TempView.mc" id="26" lineNum="30" pc="268437467" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\TempView.mc" id="26" lineNum="31" pc="268437479" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\TempView.mc" id="26" lineNum="32" pc="268437519" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\TempView.mc" id="27" lineNum="43" pc="268437602" symbol="onHide"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionApp.mc" id="29" lineNum="12" pc="268437607" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionApp.mc" id="29" lineNum="13" pc="268437611" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionApp.mc" id="30" lineNum="17" pc="268437630" symbol="onStart"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionApp.mc" id="30" lineNum="18" pc="268437634" symbol="onStart"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionApp.mc" id="30" lineNum="19" pc="268437663" symbol="onStart"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionApp.mc" id="31" lineNum="23" pc="268437688" symbol="onStop"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionApp.mc" id="32" lineNum="27" pc="268437693" symbol="getInitialView"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionApp.mc" id="32" lineNum="28" pc="268437697" symbol="getInitialView"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="34" lineNum="8" pc="268437765" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="34" lineNum="9" pc="268437769" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="34" lineNum="10" pc="268437787" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="34" lineNum="16" pc="268437935" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="35" lineNum="25" pc="268438084" symbol="onLayout"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="36" lineNum="30" pc="268438089" symbol="onShow"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="34" pc="268438094" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="35" pc="268438098" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="36" pc="268438134" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="37" pc="268438146" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="38" pc="268438159" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="41" pc="268438172" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="42" pc="268438182" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="43" pc="268438213" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="44" pc="268438227" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="46" pc="268438237" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="47" pc="268438259" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="49" pc="268438281" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="50" pc="268438291" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="51" pc="268438328" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="52" pc="268438342" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="54" pc="268438349" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="55" pc="268438371" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="58" pc="268438393" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="59" pc="268438413" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="60" pc="268438433" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="37" lineNum="61" pc="268438470" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="38" lineNum="66" pc="268438519" symbol="onHide"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="40" lineNum="74" pc="268438524" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="40" lineNum="75" pc="268438528" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="40" lineNum="76" pc="268438546" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="41" lineNum="85" pc="268438695" symbol="onLayout"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="41" lineNum="86" pc="268438699" symbol="onLayout"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="41" lineNum="87" pc="268438735" symbol="onLayout"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="42" lineNum="92" pc="268438748" symbol="onShow"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="43" lineNum="96" pc="268438753" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="43" lineNum="97" pc="268438757" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="43" lineNum="98" pc="268438770" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="43" lineNum="101" pc="268438783" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="43" lineNum="102" pc="268438793" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="43" lineNum="103" pc="268438803" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="43" lineNum="104" pc="268438817" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="43" lineNum="106" pc="268438827" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="43" lineNum="107" pc="268438849" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="43" lineNum="110" pc="268438871" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\DescriptionPage\\DescriptionView.mc" id="44" lineNum="115" pc="268438892" symbol="onHide"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDelegate.mc" id="46" lineNum="8" pc="268438897" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDelegate.mc" id="46" lineNum="9" pc="268438901" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDelegate.mc" id="47" lineNum="13" pc="268438920" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDelegate.mc" id="47" lineNum="14" pc="268438924" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDelegate.mc" id="47" lineNum="15" pc="268438996" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDelegate.mc" id="48" lineNum="19" pc="268439000" symbol="onNextPage"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDelegate.mc" id="48" lineNum="21" pc="268439004" symbol="onNextPage"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDelegate.mc" id="48" lineNum="22" pc="268439072" symbol="onNextPage"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDelegate.mc" id="48" lineNum="29" pc="268439148" symbol="onNextPage"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDelegate.mc" id="48" lineNum="36" pc="268439224" symbol="onNextPage"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDelegate.mc" id="48" lineNum="44" pc="268439300" symbol="onNextPage"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDelegate.mc" id="48" lineNum="45" pc="268439358" symbol="onNextPage"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\DecideRecipe.mc" id="49" lineNum="41" pc="268439362" symbol="getRecipe"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\DecideRecipe.mc" id="49" lineNum="44" pc="268439374" symbol="getRecipe"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\DecideRecipe.mc" id="49" lineNum="47" pc="268439495" symbol="getRecipe"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\DecideRecipe.mc" id="49" lineNum="55" pc="268439616" symbol="getRecipe"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\DecideRecipe.mc" id="49" lineNum="56" pc="268439645" symbol="getRecipe"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\DecideRecipe.mc" id="49" lineNum="59" pc="268439674" symbol="getRecipe"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\DecideRecipe.mc" id="49" lineNum="62" pc="268439710" symbol="getRecipe"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="51" lineNum="9" pc="268439768" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="51" lineNum="10" pc="268439772" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="52" lineNum="14" pc="268439795" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="52" lineNum="16" pc="268439799" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="52" lineNum="18" pc="268439812" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="52" lineNum="19" pc="268439874" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="52" lineNum="22" pc="268439950" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="52" lineNum="25" pc="268440026" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="52" lineNum="29" pc="268440102" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="52" lineNum="30" pc="268440162" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="54" lineNum="40" pc="268440166" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="54" lineNum="41" pc="268440170" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="54" lineNum="42" pc="268440192" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="55" lineNum="46" pc="268440203" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="55" lineNum="47" pc="268440207" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="55" lineNum="48" pc="268440226" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipeMenuDelegates.mc" id="55" lineNum="49" pc="268440255" symbol="onSelect"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionView.mc" id="57" lineNum="7" pc="268440312" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionView.mc" id="57" lineNum="8" pc="268440316" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionView.mc" id="58" lineNum="12" pc="268440335" symbol="onLayout"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionView.mc" id="58" lineNum="13" pc="268440339" symbol="onLayout"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionView.mc" id="59" lineNum="19" pc="268440377" symbol="onShow"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionView.mc" id="60" lineNum="23" pc="268440382" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionView.mc" id="60" lineNum="25" pc="268440386" symbol="onUpdate"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\CustomNutritionView.mc" id="61" lineNum="31" pc="268440407" symbol="onHide"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="63" lineNum="16" pc="268440412" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="63" lineNum="17" pc="268440416" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="63" lineNum="18" pc="268440440" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="22" pc="268440451" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="24" pc="268440455" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="25" pc="268440474" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="26" pc="268440523" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="29" pc="268440542" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="30" pc="268440583" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="37" pc="268440670" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="38" pc="268440688" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="39" pc="268440724" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="40" pc="268440741" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="42" pc="268440819" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="43" pc="268440842" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="44" pc="268440868" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="49" pc="268440925" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="54" pc="268440994" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="59" pc="268441069" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="64" pc="268441138" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="66" pc="268441141" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="67" pc="268441164" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="68" pc="268441187" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="69" pc="268441225" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="74" pc="268441273" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="79" pc="268441342" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="84" pc="268441417" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="86" pc="268441420" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="87" pc="268441446" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="88" pc="268441469" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="93" pc="268441526" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="98" pc="268441595" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\PlatePage\\PlateDrawable.mc" id="64" lineNum="103" pc="268441655" symbol="draw"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="66" lineNum="7" pc="268441659" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="66" lineNum="8" pc="268441663" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="66" lineNum="9" pc="268441681" symbol="initialize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="67" lineNum="12" pc="268441692" symbol="getIndex"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="67" lineNum="13" pc="268441696" symbol="getIndex"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="67" lineNum="14" pc="268441710" symbol="getIndex"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="67" lineNum="15" pc="268441740" symbol="getIndex"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="67" lineNum="16" pc="268441780" symbol="getIndex"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="67" lineNum="21" pc="268441802" symbol="getIndex"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="67" lineNum="22" pc="268441832" symbol="getIndex"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="67" lineNum="23" pc="268441857" symbol="getIndex"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="67" lineNum="27" pc="268441876" symbol="getIndex"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="68" lineNum="30" pc="268441883" symbol="getSize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="68" lineNum="31" pc="268441887" symbol="getSize"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="69" lineNum="34" pc="268441906" symbol="getValue"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="69" lineNum="35" pc="268441910" symbol="getValue"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="70" lineNum="38" pc="268441923" symbol="getDrawable"/>
+<entry filename="C:\\Users\\kathe\\eclipse-workspace\\CustomNutrition\\source\\RecipePickerPage\\RecipePickerFactory.mc" id="70" lineNum="39" pc="268441927" symbol="getDrawable"/>
+<entry filename="Rez" id="76" lineNum="20" pc="268442060" symbol="MainLayout"/>
+<entry filename="Rez" id="76" lineNum="22" pc="268442072" symbol="MainLayout"/>
+<entry filename="Rez" id="76" lineNum="23" pc="268442191" symbol="MainLayout"/>
+<entry filename="Rez" id="76" lineNum="24" pc="268442231" symbol="MainLayout"/>
+<entry filename="Rez" id="76" lineNum="25" pc="268442383" symbol="MainLayout"/>
+<entry filename="Rez" id="76" lineNum="27" pc="268442535" symbol="MainLayout"/>
+<entry filename="Rez" id="77" lineNum="36" pc="268442573" symbol="PlatePageLayout"/>
+<entry filename="Rez" id="77" lineNum="38" pc="268442585" symbol="PlatePageLayout"/>
+<entry filename="Rez" id="77" lineNum="39" pc="268442717" symbol="PlatePageLayout"/>
+<entry filename="Rez" id="77" lineNum="40" pc="268442830" symbol="PlatePageLayout"/>
+<entry filename="Rez" id="77" lineNum="41" pc="268442943" symbol="PlatePageLayout"/>
+<entry filename="Rez" id="77" lineNum="42" pc="268443062" symbol="PlatePageLayout"/>
+<entry filename="Rez" id="77" lineNum="44" pc="268443102" symbol="PlatePageLayout"/>
+<entry filename="Rez" id="78" lineNum="53" pc="268443150" symbol="DescriptionPageLayout"/>
+<entry filename="Rez" id="78" lineNum="55" pc="268443162" symbol="DescriptionPageLayout"/>
+<entry filename="Rez" id="78" lineNum="56" pc="268443281" symbol="DescriptionPageLayout"/>
+<entry filename="Rez" id="78" lineNum="58" pc="268443321" symbol="DescriptionPageLayout"/>
+<entry filename="Rez" id="81" lineNum="71" pc="268443339" symbol="initialize"/>
+<entry filename="Rez" id="81" lineNum="72" pc="268443343" symbol="initialize"/>
+<entry filename="Rez" id="81" lineNum="73" pc="268443361" symbol="initialize"/>
+<entry filename="Rez" id="81" lineNum="74" pc="268443417" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="84" symbol="BE_2T"/>
+<entry field="true" id="76" symbol="BE_2D"/>
+<entry field="true" id="138" symbol="BE_1T"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="127" symbol="BE_1D"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="141" symbol="phrase"/>
+<entry field="true" id="140" symbol="dayMenu"/>
+<entry field="true" id="132" symbol="testing_title"/>
+<entry field="true" id="22" symbol="bm_titles"/>
+<entry field="true" id="52" symbol="websiteDraw"/>
+<entry field="true" id="37" symbol="se_desc"/>
+<entry field="true" id="133" symbol="LH_3T"/>
+<entry field="true" id="107" symbol="LH_3D"/>
+<entry field="true" id="119" symbol="LH_2T"/>
+<entry field="true" id="86" symbol="LH_2D"/>
+<entry field="true" id="96" symbol="LH_1T"/>
+<entry field="true" id="74" symbol="LH_1D"/>
+<entry field="true" id="55" symbol="meal"/>
+<entry field="true" id="68" symbol="nutrition_option3"/>
+<entry field="true" id="70" symbol="nutrition_option2"/>
+<entry field="true" id="71" symbol="nutrition_option1"/>
+<entry id="65" method="true" symbol="MainLayout"/>
+<entry id="43" object="true" symbol="RecipeMenuDelegate2"/>
+<entry id="42" object="true" symbol="RecipeMenuDelegate1"/>
+<entry field="true" id="26" symbol="lh_titles"/>
+<entry field="true" id="36" symbol="lh_desc"/>
+<entry id="66" method="true" symbol="PlatePageLayout"/>
+<entry field="true" id="31" symbol="be_desc"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="94" symbol="BM_3T"/>
+<entry field="true" id="85" symbol="BM_3D"/>
+<entry field="true" id="111" symbol="recipe_website"/>
+<entry field="true" id="78" symbol="BM_2T"/>
+<entry id="8388647" module="true" symbol="UserProfile"/>
+<entry field="true" id="69" symbol="BM_2D"/>
+<entry field="true" id="60" symbol="garmenu_icon"/>
+<entry field="true" id="116" symbol="app_description_2"/>
+<entry field="true" id="113" symbol="app_description_1"/>
+<entry id="8389629" method="true" symbol="getValue"/>
+<entry id="13" object="true" symbol="DescriptionPageDelegate"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="130" symbol="BM_1T"/>
+<entry field="true" id="123" symbol="BM_1D"/>
+<entry id="12" method="true" symbol="getTypeOfDay"/>
+<entry field="true" id="29" symbol="sh_titles"/>
+<entry field="true" id="61" symbol="mainIcon"/>
+<entry field="true" id="115" symbol="AppName"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry field="true" id="101" symbol="SE_3T"/>
+<entry field="true" id="112" symbol="SE_3D"/>
+<entry field="true" id="120" symbol="SE_2T"/>
+<entry field="true" id="128" symbol="SE_2D"/>
+<entry field="true" id="126" symbol="SE_1T"/>
+<entry field="true" id="131" symbol="SE_1D"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8389345" symbol="rezId"/>
+<entry field="true" id="49" symbol="description"/>
+<entry field="true" id="83" symbol="plate_page_title"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="136" symbol="prompt"/>
+<entry field="true" id="21" symbol="be_titles"/>
+<entry field="true" id="58" symbol="Monkey"/>
+<entry id="10" object="true" symbol="PlatePageView"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry field="true" id="87" symbol="testing"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="45" symbol="plate_color"/>
+<entry id="8389630" method="true" symbol="getSize"/>
+<entry id="146" symbol="item_2"/>
+<entry id="145" symbol="item_1"/>
+<entry id="57" module="true" symbol="Menus"/>
+<entry id="11" method="true" symbol="getBMR"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="121" symbol="BH_3T"/>
+<entry field="true" id="114" symbol="BH_3D"/>
+<entry field="true" id="103" symbol="BH_2T"/>
+<entry field="true" id="92" symbol="BH_2D"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="81" symbol="BH_1T"/>
+<entry field="true" id="106" symbol="meal_option3"/>
+<entry field="true" id="109" symbol="meal_option2"/>
+<entry field="true" id="108" symbol="meal_option1"/>
+<entry field="true" id="75" symbol="BH_1D"/>
+<entry id="67" method="true" symbol="DescriptionPageLayout"/>
+<entry id="18" object="true" symbol="DescriptionPageView"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="93" symbol="SM_3T"/>
+<entry field="true" id="105" symbol="SM_3D"/>
+<entry field="true" id="118" symbol="SM_2T"/>
+<entry field="true" id="124" symbol="SM_2D"/>
+<entry field="true" id="139" symbol="SM_1T"/>
+<entry field="true" id="77" symbol="SM_1D"/>
+<entry field="true" id="34" symbol="le_desc"/>
+<entry field="true" id="25" symbol="lm_titles"/>
+<entry field="true" id="40" symbol="descriptions"/>
+<entry field="true" id="30" symbol="titles"/>
+<entry field="true" id="32" symbol="bm_desc"/>
+<entry field="true" id="59" symbol="DownArrow"/>
+<entry id="15" object="true" symbol="TempView"/>
+<entry id="64" object="true" symbol="MainMenu"/>
+<entry field="true" id="24" symbol="le_titles"/>
+<entry field="true" id="62" symbol="nextPageArrow"/>
+<entry id="8389628" method="true" symbol="getDrawable"/>
+<entry field="true" id="28" symbol="sm_titles"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="110" symbol="LE_3T"/>
+<entry field="true" id="98" symbol="LE_3D"/>
+<entry field="true" id="88" symbol="LE_2T"/>
+<entry field="true" id="80" symbol="LE_2D"/>
+<entry field="true" id="73" symbol="LE_1T"/>
+<entry field="true" id="135" symbol="LE_1D"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="23" symbol="bh_titles"/>
+<entry field="true" id="38" symbol="sm_desc"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="63" symbol="LauncherIcon"/>
+<entry field="true" id="39" symbol="sh_desc"/>
+<entry field="true" id="54" symbol="plate"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="50" symbol="titleDraw"/>
+<entry field="true" id="82" symbol="SH_3T"/>
+<entry field="true" id="89" symbol="SH_3D"/>
+<entry field="true" id="104" symbol="SH_2T"/>
+<entry field="true" id="117" symbol="SH_2D"/>
+<entry field="true" id="122" symbol="SH_1T"/>
+<entry field="true" id="129" symbol="SH_1D"/>
+<entry field="true" id="51" symbol="descripDraw"/>
+<entry field="true" id="48" symbol="descDraw"/>
+<entry field="true" id="144" symbol="recipeMenu"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="14" object="true" symbol="RecipeView"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="19" object="true" symbol="DescriptionPage2View"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="17" object="true" symbol="CustomNutritionApp"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="33" symbol="bh_desc"/>
+<entry id="20" object="true" symbol="PlatePageDelegate"/>
+<entry id="41" method="true" symbol="getRecipe"/>
+<entry field="true" id="137" symbol="description_page_title"/>
+<entry field="true" id="90" symbol="LM_3T"/>
+<entry field="true" id="100" symbol="LM_3D"/>
+<entry field="true" id="95" symbol="LM_2T"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="72" symbol="LM_2D"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="79" symbol="LM_1T"/>
+<entry field="true" id="125" symbol="LM_1D"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="8388939" symbol="day"/>
+<entry id="46" object="true" symbol="PlateDrawable"/>
+<entry field="true" id="134" symbol="recipe_picker_prompt"/>
+<entry id="44" object="true" symbol="CustomNutritionView"/>
+<entry id="47" object="true" symbol="RecipePickerFactory"/>
+<entry field="true" id="35" symbol="lm_desc"/>
+<entry id="143" method="true" symbol="getIndex"/>
+<entry id="56" module="true" symbol="Layouts"/>
+<entry field="true" id="27" symbol="se_titles"/>
+<entry field="true" id="142" symbol="mealOptions"/>
+<entry id="9" object="true" symbol="CustomNutritionDelegate"/>
+<entry field="true" id="53" symbol="dayType"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="16" symbol="index"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="8389642" symbol="title"/>
+<entry field="true" id="99" symbol="menu_label_2"/>
+<entry field="true" id="97" symbol="menu_label_1"/>
+<entry field="true" id="102" symbol="BE_3T"/>
+<entry field="true" id="91" symbol="BE_3D"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435681" name="dc" stackId="1" startPc="268435639"/>
+<entry endPc="268435731" name="dc" stackId="1" startPc="268435686"/>
+<entry endPc="268435868" name="bmr" stackId="5" startPc="268435748"/>
+<entry endPc="268435869" name="height" stackId="2" startPc="268435736"/>
+<entry endPc="268435869" name="age" stackId="1" startPc="268435736"/>
+<entry endPc="268435869" name="gender" stackId="4" startPc="268435736"/>
+<entry endPc="268435869" name="weight" stackId="3" startPc="268435736"/>
+<entry endPc="268436277" name="userAge" stackId="9" startPc="268435881"/>
+<entry endPc="268436277" name="userWeight" stackId="11" startPc="268435881"/>
+<entry endPc="268436277" name="easyModCutoff" stackId="4" startPc="268435881"/>
+<entry endPc="268436277" name="info" stackId="6" startPc="268435881"/>
+<entry endPc="268436277" name="profile" stackId="8" startPc="268435881"/>
+<entry endPc="268436277" name="userCals" stackId="7" startPc="268435881"/>
+<entry endPc="268436277" name="curHour" stackId="3" startPc="268435881"/>
+<entry endPc="268436277" name="bmr" stackId="13" startPc="268435881"/>
+<entry endPc="268436277" name="userGender" stackId="12" startPc="268435881"/>
+<entry endPc="268436277" name="relativeBMR" stackId="14" startPc="268435881"/>
+<entry endPc="268436277" name="ratioCals" stackId="15" startPc="268435881"/>
+<entry endPc="268436277" name="userHeight" stackId="10" startPc="268435881"/>
+<entry endPc="268436277" name="today" stackId="1" startPc="268435881"/>
+<entry endPc="268436277" name="curYear" stackId="2" startPc="268435881"/>
+<entry endPc="268436277" name="modHardCutoff" stackId="5" startPc="268435881"/>
+<entry endPc="268436864" name="t" stackId="1" startPc="268436381"/>
+<entry endPc="268436864" name="d" stackId="2" startPc="268436381"/>
+<entry endPc="268436917" name="dc" stackId="1" startPc="268436864"/>
+<entry endPc="268437351" name="dw" stackId="8" startPc="268436926"/>
+<entry endPc="268437351" name="wh" stackId="13" startPc="268436926"/>
+<entry endPc="268437351" name="th" stackId="5" startPc="268436926"/>
+<entry endPc="268437351" name="wy" stackId="15" startPc="268436926"/>
+<entry endPc="268437351" name="wx" stackId="14" startPc="268436926"/>
+<entry endPc="268437351" name="ty" stackId="7" startPc="268436926"/>
+<entry endPc="268437351" name="ww" stackId="12" startPc="268436926"/>
+<entry endPc="268437351" name="tx" stackId="6" startPc="268436926"/>
+<entry endPc="268437351" name="h" stackId="2" startPc="268436926"/>
+<entry endPc="268437351" name="tw" stackId="4" startPc="268436926"/>
+<entry endPc="268437351" name="dh" stackId="9" startPc="268436926"/>
+<entry endPc="268437351" name="w" stackId="3" startPc="268436926"/>
+<entry endPc="268437351" name="dy" stackId="11" startPc="268436926"/>
+<entry endPc="268437351" name="dx" stackId="10" startPc="268436926"/>
+<entry endPc="268437352" name="dc" stackId="1" startPc="268436922"/>
+<entry endPc="268437413" name="x" stackId="1" startPc="268437357"/>
+<entry endPc="268437418" name="dc" stackId="1" startPc="268437413"/>
+<entry endPc="268437602" name="dc" stackId="1" startPc="268437423"/>
+<entry endPc="268437688" name="state" stackId="1" startPc="268437630"/>
+<entry endPc="268437693" name="state" stackId="1" startPc="268437688"/>
+<entry endPc="268438089" name="dc" stackId="1" startPc="268438084"/>
+<entry endPc="268438518" name="rc" stackId="12" startPc="268438098"/>
+<entry endPc="268438518" name="dw" stackId="8" startPc="268438098"/>
+<entry endPc="268438518" name="th" stackId="5" startPc="268438098"/>
+<entry endPc="268438518" name="ty" stackId="7" startPc="268438098"/>
+<entry endPc="268438518" name="tx" stackId="6" startPc="268438098"/>
+<entry endPc="268438518" name="h" stackId="2" startPc="268438098"/>
+<entry endPc="268438518" name="tw" stackId="4" startPc="268438098"/>
+<entry endPc="268438518" name="dh" stackId="9" startPc="268438098"/>
+<entry endPc="268438518" name="w" stackId="3" startPc="268438098"/>
+<entry endPc="268438518" name="dy" stackId="11" startPc="268438098"/>
+<entry endPc="268438518" name="dx" stackId="10" startPc="268438098"/>
+<entry endPc="268438519" name="dc" stackId="1" startPc="268438094"/>
+<entry endPc="268438748" name="dc" stackId="1" startPc="268438695"/>
+<entry endPc="268438891" name="dy" stackId="7" startPc="268438757"/>
+<entry endPc="268438891" name="w" stackId="3" startPc="268438757"/>
+<entry endPc="268438891" name="dx" stackId="6" startPc="268438757"/>
+<entry endPc="268438891" name="dw" stackId="4" startPc="268438757"/>
+<entry endPc="268438891" name="h" stackId="2" startPc="268438757"/>
+<entry endPc="268438891" name="dh" stackId="5" startPc="268438757"/>
+<entry endPc="268438892" name="dc" stackId="1" startPc="268438753"/>
+<entry endPc="268439767" name="day" stackId="4" startPc="268439374"/>
+<entry endPc="268439767" name="meal" stackId="3" startPc="268439374"/>
+<entry endPc="268439767" name="t" stackId="5" startPc="268439374"/>
+<entry endPc="268439767" name="d" stackId="6" startPc="268439374"/>
+<entry endPc="268439768" name="meal_s" stackId="1" startPc="268439362"/>
+<entry endPc="268439768" name="day_s" stackId="2" startPc="268439362"/>
+<entry endPc="268440165" name="meal_selected" stackId="2" startPc="268439799"/>
+<entry endPc="268440166" name="item" stackId="1" startPc="268439795"/>
+<entry endPc="268440203" name="prev_item" stackId="1" startPc="268440166"/>
+<entry endPc="268440311" name="recipe" stackId="2" startPc="268440207"/>
+<entry endPc="268440312" name="item" stackId="1" startPc="268440203"/>
+<entry endPc="268440377" name="dc" stackId="1" startPc="268440335"/>
+<entry endPc="268440407" name="dc" stackId="1" startPc="268440382"/>
+<entry endPc="268440451" name="d" stackId="1" startPc="268440412"/>
+<entry endPc="268441658" name="radius" stackId="4" startPc="268440455"/>
+<entry endPc="268441658" name="y_mid" stackId="3" startPc="268440455"/>
+<entry endPc="268441658" name="x_mid" stackId="2" startPc="268440455"/>
+<entry endPc="268441659" name="dc" stackId="1" startPc="268440451"/>
+<entry endPc="268441692" name="words" stackId="1" startPc="268441659"/>
+<entry endPc="268441799" name="i" stackId="2" startPc="268441740"/>
+<entry endPc="268441876" name="i" stackId="3" startPc="268441832"/>
+<entry endPc="268441883" name="value" stackId="1" startPc="268441692"/>
+<entry endPc="268441923" name="index" stackId="1" startPc="268441906"/>
+<entry endPc="268442060" name="index" stackId="1" startPc="268441923"/>
+<entry endPc="268442060" name="selected" stackId="2" startPc="268441923"/>
+<entry endPc="268442572" name="rez_cmp_local_text_8926086984" stackId="3" startPc="268442072"/>
+<entry endPc="268442572" name="rez_cmp_local_text_6646003371" stackId="4" startPc="268442072"/>
+<entry endPc="268442572" name="rez_cmp_local_bitmap_mainIcon" stackId="2" startPc="268442072"/>
+<entry endPc="268442573" name="dc" stackId="1" startPc="268442060"/>
+<entry endPc="268443149" name="rez_cmp_local_text_3490931961" stackId="2" startPc="268442585"/>
+<entry endPc="268443149" name="rez_cmp_local_text_1675781634" stackId="3" startPc="268442585"/>
+<entry endPc="268443149" name="rez_cmp_local_text_5967901212" stackId="4" startPc="268442585"/>
+<entry endPc="268443149" name="rez_cmp_local_bitmap_nextPageArrow" stackId="5" startPc="268442585"/>
+<entry endPc="268443150" name="dc" stackId="1" startPc="268442573"/>
+<entry endPc="268443338" name="rez_cmp_local_bitmap_nextPageArrow" stackId="2" startPc="268443162"/>
+<entry endPc="268443339" name="dc" stackId="1" startPc="268443150"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="446" parentId="globals" symbolId="DescriptionPage2View" type="class"/>
+<dataEntry offset="533" parentId="globals" symbolId="PlateDrawable" type="class"/>
+<dataEntry offset="596" parentId="globals" symbolId="RecipeView" type="class"/>
+<dataEntry offset="715" parentId="globals" symbolId="PlatePageView" type="class"/>
+<dataEntry offset="810" parentId="globals" symbolId="RecipeMenuDelegate2" type="class"/>
+<dataEntry offset="881" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="960" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="1039" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="1078" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="1125" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="1156" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1211" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1242" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1849" parentId="globals" symbolId="RecipeMenuDelegate1" type="class"/>
+<dataEntry offset="1912" parentId="globals" symbolId="DescriptionPageDelegate" type="class"/>
+<dataEntry offset="1967" parentId="globals" symbolId="CustomNutritionApp" type="class"/>
+<dataEntry offset="2038" parentId="globals" symbolId="TempView" type="class"/>
+<dataEntry offset="2125" parentId="globals" symbolId="DescriptionPageView" type="class"/>
+<dataEntry offset="2220" parentId="globals" symbolId="CustomNutritionDelegate" type="class"/>
+<dataEntry offset="2275" parentId="globals" symbolId="RecipePickerFactory" type="class"/>
+<dataEntry offset="2362" parentId="globals" symbolId="PlatePageDelegate" type="class"/>
+<dataEntry offset="2433" parentId="globals" symbolId="CustomNutritionView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="CustomNutritionDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="CustomNutritionDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PlatePageView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="PlatePageView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="PlatePageView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="PlatePageView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="PlatePageView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBMR">
+<param id="age"/>
+<param id="height"/>
+<param id="weight"/>
+<param id="gender"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getTypeOfDay">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DescriptionPageDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="DescriptionPageDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RecipeView">
+<param id="t"/>
+<param id="d"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="RecipeView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="RecipeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="RecipeView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="RecipeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TempView">
+<param id="x"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="TempView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="TempView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="TempView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="TempView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CustomNutritionApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="CustomNutritionApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="CustomNutritionApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="CustomNutritionApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DescriptionPageView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="DescriptionPageView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="DescriptionPageView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="DescriptionPageView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="DescriptionPageView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DescriptionPage2View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="DescriptionPage2View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="DescriptionPage2View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="DescriptionPage2View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="DescriptionPage2View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PlatePageDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="PlatePageDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="PlatePageDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getRecipe">
+<param id="meal_s"/>
+<param id="day_s"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RecipeMenuDelegate1">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="RecipeMenuDelegate1">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RecipeMenuDelegate2">
+<param id="prev_item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="RecipeMenuDelegate2">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CustomNutritionView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="CustomNutritionView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="CustomNutritionView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="CustomNutritionView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="CustomNutritionView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PlateDrawable">
+<param id="d"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="PlateDrawable">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RecipePickerFactory">
+<param id="words"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getIndex" parent="RecipePickerFactory">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getSize" parent="RecipePickerFactory">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getValue" parent="RecipePickerFactory">
+<param id="index"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getDrawable" parent="RecipePickerFactory">
+<param id="index"/>
+<param id="selected"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="PlatePageLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="DescriptionPageLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
