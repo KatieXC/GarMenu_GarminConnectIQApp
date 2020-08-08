@@ -1,6 +1,7 @@
+/* File: CustomNutritionView */
 using Toybox.WatchUi;
 
-//------------- Top App View -------------//
+//--------------- Top App View ----------------//
 class CustomNutritionView extends WatchUi.View {
 
     // Constructor

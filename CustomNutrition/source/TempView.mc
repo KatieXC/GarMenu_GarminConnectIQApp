@@ -1,12 +1,16 @@
+/* File: TempView */
 using Toybox.WatchUi;
 
+//--------------- Testing View ----------------//
+//  Used for debugging as placeholder view
 class TempView extends WatchUi.View {
 
-    var phrase;
+    var phrase;             // Text to be displayed to screen
 
+    // Input: string to show on screen
     function initialize(x) {
         if (x==null) {
-            phrase = "(insert text)";
+            phrase = "<insert text>";
         }
         else {
             phrase = x;
@@ -14,18 +18,14 @@ class TempView extends WatchUi.View {
         View.initialize();
     }
 
-    // Load your resources here
     function onLayout(dc) {
     }
 
-    // Called when this View is brought to the foreground
-    // Restore this View state, load rc's to mem, & prepare it to be shown
     function onShow() {
     }
 
-    // Update the view
+    // Set background color to yellow and write phrase to middle of screen
     function onUpdate(dc) {
-        // View.onUpdate(dc); -- to redraw screen
         dc.setColor(Graphics.COLOR_TRANSPARENT, Graphics.COLOR_YELLOW);
         dc.clear();
         dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
@@ -33,13 +33,11 @@ class TempView extends WatchUi.View {
             dc.getWidth() / 2,                      // gets the width of the device and divides by 2
             dc.getHeight() / 2,                     // gets the height of the device and divides by 2
             Graphics.FONT_LARGE,                    // sets the font size
-            phrase,                                 // the String to display
+            phrase,                                 // the string to display
             Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
             );
     }
 
-    // Called when this View is removed from the screen
-    // Save this View state here & free rc's from mem
     function onHide() {
     }
     

@@ -1,9 +1,11 @@
+/* File: DescriptionPageView, DescriptionPage2View */
 using Toybox.WatchUi;
 using Toybox.Graphics;
 
+//----------- Description Page View -----------//
 class DescriptionPageView extends WatchUi.View {
-    var descDraw;
-    var titleDraw;
+    var descDraw;           // Description TextArea drawable
+    var titleDraw;          // Title TextArea drawable
 
     function initialize() {
         View.initialize();
@@ -21,23 +23,21 @@ class DescriptionPageView extends WatchUi.View {
                                          });
     }
 
-    /* Load your resources here */
     function onLayout(dc) {
     }
 
-    /* Called when this View is brought to the foreground */
-    // Restore this View state, load rc's to mem, & prepare it to be shown
     function onShow() {
     }
 
-    /* Update the view */
     function onUpdate(dc) {
+        // Clear screen
         dc.setColor(Graphics.COLOR_TRANSPARENT, Graphics.COLOR_BLACK);
         dc.clear();
-        var h = dc.getHeight();
-        var w = dc.getWidth();
 
-        // Update title and paragraph locations & sizes
+        var h = dc.getHeight();     // Screen height
+        var w = dc.getWidth();      // Screen width
+
+        // Adjust title
         var tw = w * 0.8;
         var th = dc.getFontHeight(Graphics.FONT_SMALL) + 10;
         var tx = WatchUi.LAYOUT_HALIGN_CENTER;
@@ -46,6 +46,7 @@ class DescriptionPageView extends WatchUi.View {
         titleDraw.setSize(tw, th);
         titleDraw.setLocation(tx, ty);
 
+        // Adjust description
         var dw = w * 0.85;
         var dh = 5 * dc.getFontHeight(Graphics.FONT_XTINY) + 20;
         var dx = WatchUi.LAYOUT_HALIGN_CENTER;
@@ -54,22 +55,23 @@ class DescriptionPageView extends WatchUi.View {
         descDraw.setSize(dw, dh);
         descDraw.setLocation(dx, dy);
 
-        // Draw both text areas to screen
+        // Draw text
         titleDraw.draw(dc);
         descDraw.draw(dc);
+        
+        // Draw down arrow
         var rc = WatchUi.loadResource(Rez.Drawables.DownArrow);
         dc.drawBitmap((w/2)-(rc.getWidth()/2), h*0.85, rc);
     }
 
-    /* Called when this View is removed from the screen */
-    // Save this View state here & free rc's from mem
     function onHide() {
     }
     
 }
 
+//------- Second Description Page View --------//
 class DescriptionPage2View extends WatchUi.View {
-    var descDraw;
+    var descDraw;           // Description TextArea drawable
 
     function initialize() {
         View.initialize();
@@ -81,23 +83,20 @@ class DescriptionPage2View extends WatchUi.View {
                                          });
     }
 
-    /* Load your resources here */
+    // Clear screen
     function onLayout(dc) {
         dc.setColor(Graphics.COLOR_TRANSPARENT, Graphics.COLOR_BLACK);
         dc.clear();
     }
 
-    /* Called when this View is brought to the foreground */
-    // Restore this View state, load rc's to mem, & prepare it to be shown
     function onShow() {
     }
 
-    /* Update the view */
     function onUpdate(dc) {
-        var h = dc.getHeight();
-        var w = dc.getWidth();
+        var h = dc.getHeight();     // Screen width
+        var w = dc.getWidth();      // Screen height
 
-        // Update title and paragraph locations & sizes
+        // Adjust location & size
         var dw = w * 0.85;
         var dh = h * 0.75;
         var dx = WatchUi.LAYOUT_HALIGN_CENTER;
@@ -106,12 +105,10 @@ class DescriptionPage2View extends WatchUi.View {
         descDraw.setSize(dw, dh);
         descDraw.setLocation(dx, dy);
 
-        // Draw both text areas to screen
+        // Draw
         descDraw.draw(dc);
     }
 
-    /* Called when this View is removed from the screen */
-    // Save this View state here & free rc's from mem
     function onHide() {
     }
     
