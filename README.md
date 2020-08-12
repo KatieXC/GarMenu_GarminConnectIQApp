@@ -28,8 +28,8 @@ Follow the SDK installation instructions in the Resources below to use the Conne
 * [Garmin Connect IQ](https://developer.garmin.com/connect-iq/overview/)
 * [Connect IQ Environment Installing Instructions](https://developer.garmin.com/connect-iq/programmers-guide/getting-started/)
 * [Connect IQ SDK API Docs](https://developer.garmin.com/connect-iq/api-docs/)
-* [Monkey C Programmer's Guid](file:///C:/Users/kathe/ConnectIQSDK/ProgrammersGuide.html)
-* [Monkey C User's Guide](file:///C:/Users/kathe/ConnectIQSDK/UXGuide.html)
+* [Monkey C Programmer's Guid](https://developer.garmin.com/connect-iq/programmers-guide/)
+* [Monkey C User's Guide](https://developer.garmin.com/connect-iq/user-experience-guide/)
 * [Garmin Developer Forums](https://forums.garmin.com/developer/)
 ### Nutrition
 * [United States Olympic Paralympic Committee Nutrition](https://www.teamusa.org/nutrition)
