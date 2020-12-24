@@ -12,7 +12,7 @@ class PlatePageDelegate extends WatchUi.BehaviorDelegate {
 
     // Handle select key press -- Go to description page
     function onSelect() {
-        WatchUi.pushView(new DescriptionPageView(), new DescriptionPageDelegate(), WatchUi.SLIDE_LEFT);
+        WatchUi.pushView(new DescriptionPageView(), new DescriptionPageDelegate(0), WatchUi.SLIDE_LEFT);
         return true;
     }
 

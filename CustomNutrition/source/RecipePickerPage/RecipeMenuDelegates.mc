@@ -16,7 +16,8 @@ class RecipeMenuDelegate1 extends WatchUi.Menu2InputDelegate {
         // Get value from item & create plate day menu
         var meal_selected = item.getLabel();
 
-        dayMenu = new WatchUi.Menu2({:title=>"Find a "+meal_selected+" Recipe"});
+        // dayMenu = new WatchUi.Menu2({:title=>"Find a "+meal_selected+" Recipe"});
+        dayMenu = new WatchUi.Menu2({:title=>Rez.Strings.recipe_picker_prompt});
         dayMenu.addItem(
             new WatchUi.MenuItem(Rez.Strings.nutrition_option1, null, "easy", {})
         );
