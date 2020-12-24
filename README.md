@@ -19,9 +19,13 @@ If the down button (next page) is pressed, the user selects options for a recipe
 Follow the SDK installation instructions in the Resources below to use the Connect IQ environment in Eclipse.  Once the project (CustomNutrition) has been uploaded, use the *Build for Device Wizard* under the *Connect IQ* menu to create a .prg file.  Copy this file to the APPS folder on your watch.
 
 ## Current Devices Supported
-* Forerunner 245
-* Forerunner 245 Music
-* Will compile for all devices with SDK version over 3.0, but graphics may need to be adjusted
+* Forerunner 245, 245 Music
+* Vivoactive 4, 4S (1.2.0)
+* Should compile for all devices with SDK version over 3.0. Few adjustments may be needed based on display and user interface
+
+## Update 1.2.0 
+*December 2020*  
+The app is now compatable with the Vivoactive series. Improved description screen user interface.
 
 # Resources
 ### Monkey C & Connect IQ
